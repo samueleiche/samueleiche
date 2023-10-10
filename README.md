@@ -1,5 +1,4 @@
-### Hi there 👋
-
+> The rewards of our work is not what we get, but what we become. — Paul Coelho
 <!--
 **samueleiche/samueleiche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
